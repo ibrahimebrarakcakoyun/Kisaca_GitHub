@@ -20,6 +20,7 @@ Yeni bir branch olusturmak icin :
 3.6) git checkout ibrahim ile kendi branch'imize geciyoruz. (Intellij'e bir kez tikladigimiz zaman siteden cektigimiz kodlar gidebilir sorun yok)
     
 3.7) git merge main ile kodlarimi birlestiriyorum ve Intellij'de ile yazdiklarim birlesmis oldu.
+
 4) GitHub'a kodlarimi atmak icin : (main Branch'te atmamaliyiz)
     
 4.1) git checkout ibrahim kendi branch'imize gecmeliyiz.
